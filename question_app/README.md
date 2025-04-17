@@ -11,6 +11,7 @@ flutter run
 
 
 ![](https://github.com/UVADS/cursor-club/blob/a12b781d63bb097835bc1a02137e58416884170b/question_app/first-run.png)
+![](https://github.com/alonzi/cursor-club/blob/99f83f37146529ca4440f6422088992a861faa6b/question_app/mountain-app-plan.jpg)
 
 
 # ai gen stuff
